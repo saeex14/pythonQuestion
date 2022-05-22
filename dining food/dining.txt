@@ -1,1 +1,2 @@
-{"saeed": false, "hamid": true, "ehsan": true, "mohammad": true}
+{"saeed": false, "hamid": true, "ehsan": false, "mohammad": false}
+{"saeed": 0, "hamid": 0, "ehsan":0,"mohammad":0}
